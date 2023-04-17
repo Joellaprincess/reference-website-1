@@ -71,4 +71,6 @@
 - flex: creates a flexible container for a set of child elements, allowing you to control the layout of the children using flexbox properties.
 14. Write a brief explanation of flexbox property
 - Flexbox is a layout system in CSS that provides a flexible and efficient way to organize elements within a container. It is based on the idea of creating a flexible box that can adapt to the available space and distribute its elements according to various rules and constraints.
-15. 
+15. What are different types of flexbox properties and what is the major difference between them?
+- Container properties: These are properties that are applied to the container element and control the layout of the child elements. Some common container properties include display, flex-direction, justify-content, align-items, and flex-wrap.
+- Item properties: These are properties that are applied to the child elements and control how they are sized and aligned within the container. Some common item properties include flex-grow, flex-shrink, and flex-basis.
