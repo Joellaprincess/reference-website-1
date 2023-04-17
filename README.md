@@ -8,4 +8,7 @@
 - Reference any relevant issue or ticket numbers in the commit message.
 3. What is HTML?
 - HTML (Hypertext Markup Language) is the standard language used to create web pages. It consists of a series of tags that define the structure and content of a page.
-4. 
+4. Proper syntax for HTML tags
+- HTML tags consist of an opening tag, a closing tag, and the content that goes between them. For example, a basic paragraph tag looks like this:
+- This is a paragraph.
+5. 
