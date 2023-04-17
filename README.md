@@ -90,4 +90,6 @@
 - grid-template-columns: Defines the width of each column in the grid. You can specify a value in pixels, percentages, or fractions using the repeat() function.
 20. What is the difference between display: flex and display: grid?
 - The main difference between display: flex and display: grid is that flexbox is a one-dimensional layout model, while grid is a two-dimensional layout model. In flexbox, you can only lay out items in a single row or a single column, whereas in grid, you can create both rows and columns to create a more complex layout.
-21. 
+21. What sub-property we use to divide elements in CSS Grid properties?
+- we use the grid-column and grid-row sub-properties.
+22. 
