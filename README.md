@@ -13,3 +13,15 @@
 - This is a paragraph.
 5. Explain or demonstrate commonly used html tags/elements:
 - headings: h1-h6 - Used to create headings of various sizes, with h1 being the largest and h6 being the smallest.
+- P: Used to create paragraphs of text.
+- Lists: ul, ol, dl - Used to create unordered lists, ordered lists, and definition lists, respectively.
+- A: Used to create hyperlinks.
+- Img: Used to insert images.
+- Q: Used to create inline quotations.
+- Blockquote: Used to create block quotations.
+- Cite: Used to define the title of a work being referenced.
+- Em: Used to emphasize text.
+- Strong: Used to indicate important text.
+- B: Used to make text bold.
+- I: Used to make text italicized.
+- Small: Used to make text smaller.
