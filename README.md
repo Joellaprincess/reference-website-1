@@ -69,3 +69,6 @@
 - inline-block: creates an inline-level element that can have a width and height specified, and creates a new line after the element.
 - none: removes the element from the page completely, making it invisible.
 - flex: creates a flexible container for a set of child elements, allowing you to control the layout of the children using flexbox properties.
+14. Write a brief explanation of flexbox property
+- Flexbox is a layout system in CSS that provides a flexible and efficient way to organize elements within a container. It is based on the idea of creating a flexible box that can adapt to the available space and distribute its elements according to various rules and constraints.
+15. 
