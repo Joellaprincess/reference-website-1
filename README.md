@@ -42,3 +42,8 @@
     12. span: This element is used to group inline content together, such as text or images.
     13. small: This element is used to define smaller text, typically for disclaimers or fine print.
 - Block-level elements are used to structure the content of a web page, making it easier to read and understand. By using block-level elements appropriately, you can create a well-organized and visually appealing web page.
+7. Explain why accessibility is important and also explain the accessibility properties like:
+- Accessibility is important because it ensures that websites and web applications can be used by as many people as possible, including those with disabilities. Accessibility properties help make websites more accessible by providing additional information to assistive technology, such as screen readers. Some commonly used accessibility properties include:
+- Landmark roles: Used to define regions of the page, such as the header, footer, and main content.
+- Aria labels - Used to provide a descriptive label for an element that may not be clear from its content.
+- Image alternative texts - Used to provide a description of an image for users who cannot see it.
