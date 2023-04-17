@@ -88,3 +88,6 @@
 19. Write the parent and two sub-properties used for CSS Grid Property.
 - grid-template-rows: Defines the height of each row in the grid. You can specify a value in pixels, percentages, or fractions using the repeat() function.
 - grid-template-columns: Defines the width of each column in the grid. You can specify a value in pixels, percentages, or fractions using the repeat() function.
+20. What is the difference between display: flex and display: grid?
+- The main difference between display: flex and display: grid is that flexbox is a one-dimensional layout model, while grid is a two-dimensional layout model. In flexbox, you can only lay out items in a single row or a single column, whereas in grid, you can create both rows and columns to create a more complex layout.
+21. 
