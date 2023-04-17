@@ -26,3 +26,10 @@ h1 {
 .item {
     /* flex item styles go here */
 }
+
+.parent {
+    display: grid;
+    grid-template-columns: 1fr 2fr; /* two columns with a 1:2 width ratio */
+    grid-template-rows: 100px 50%; /* a fixed height row and a 50% height row */
+}
+

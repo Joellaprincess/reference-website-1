@@ -92,4 +92,5 @@
 - The main difference between display: flex and display: grid is that flexbox is a one-dimensional layout model, while grid is a two-dimensional layout model. In flexbox, you can only lay out items in a single row or a single column, whereas in grid, you can create both rows and columns to create a more complex layout.
 21. What sub-property we use to divide elements in CSS Grid properties?
 - we use the grid-column and grid-row sub-properties.
-22. 
+22. What unit we use to fractionally divide the element width in CSS Grid property and what are others unit we can use alternatively? (Write a code example)
+- In CSS Grid property, we can use the fr (fraction) unit to fractionally divide the element width. For example, we can divide a row into two equal parts using grid-template-columns: 1fr 1fr;. Alternatively, we can use px, %, em, rem, or any other valid CSS length unit to specify column or row sizes. The example is in CSS code.
