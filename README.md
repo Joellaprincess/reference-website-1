@@ -94,3 +94,5 @@
 - we use the grid-column and grid-row sub-properties.
 22. What unit we use to fractionally divide the element width in CSS Grid property and what are others unit we can use alternatively? (Write a code example)
 - In CSS Grid property, we can use the fr (fraction) unit to fractionally divide the element width. For example, we can divide a row into two equal parts using grid-template-columns: 1fr 1fr;. Alternatively, we can use px, %, em, rem, or any other valid CSS length unit to specify column or row sizes. The example is in CSS code.
+23. What is the area property in CSS grid we use for the child elements?
+- The area property in CSS Grid is used to specify the name of a grid area that a child element should occupy. A grid area is a rectangular area created by the intersection of a row and a column. By naming grid areas, we can easily position child elements in specific areas of the grid.
