@@ -11,4 +11,5 @@
 4. Proper syntax for HTML tags
 - HTML tags consist of an opening tag, a closing tag, and the content that goes between them. For example, a basic paragraph tag looks like this:
 - This is a paragraph.
-5. 
+5. Explain or demonstrate commonly used html tags/elements:
+- headings: h1-h6 - Used to create headings of various sizes, with h1 being the largest and h6 being the smallest.
