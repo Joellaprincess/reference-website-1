@@ -18,5 +18,11 @@ h1 {
     align-items: center;
     flex-wrap: wrap;
 }
+ 
+.container {
+    display: flex;
+}
   
-  
+.item {
+    /* flex item styles go here */
+}

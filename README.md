@@ -81,3 +81,5 @@
     2. justify-content: controls the alignment of the child elements along the main axis.
     3. align-items: controls the alignment of the child elements along the cross axis.
     4. flex-wrap: controls whether the child elements should wrap onto a new line if they cannot fit within the container.
+17. Write a code example on how you will use a flexbox property on a parent element with sub properties.
+- To use the flexbox property on a parent element, you can set the display property to flex. This will create a flex container and turn all its direct children into flex items. The example is in CSS
