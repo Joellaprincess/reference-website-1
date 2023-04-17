@@ -33,3 +33,30 @@ h1 {
     grid-template-rows: 100px 50%; /* a fixed height row and a 50% height row */
 }
 
+.parent {
+    display: grid;
+    grid-template-rows: 100px 50%;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas:
+      "header header"
+      "sidebar main";
+}
+  
+.header {
+    grid-area: header;
+}
+  
+.sidebar {
+    grid-area: sidebar;
+}
+  
+.main {
+    grid-area: main;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: column;
+}
+  

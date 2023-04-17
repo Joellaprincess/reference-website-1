@@ -96,3 +96,5 @@
 - In CSS Grid property, we can use the fr (fraction) unit to fractionally divide the element width. For example, we can divide a row into two equal parts using grid-template-columns: 1fr 1fr;. Alternatively, we can use px, %, em, rem, or any other valid CSS length unit to specify column or row sizes. The example is in CSS code.
 23. What is the area property in CSS grid we use for the child elements?
 - The area property in CSS Grid is used to specify the name of a grid area that a child element should occupy. A grid area is a rectangular area created by the intersection of a row and a column. By naming grid areas, we can easily position child elements in specific areas of the grid.
+24. Which sub-property of display grid you can use to prevent displaying empty columns. Write a code example of that property.
+- The sub-property of display: grid that we can use to prevent displaying empty columns is grid-auto-flow. By default, Grid will fill rows first and then move on to columns, which can sometimes create empty columns. Setting grid-auto-flow: column will fill columns first and then move on to rows, which can prevent empty columns. The code is in css.
