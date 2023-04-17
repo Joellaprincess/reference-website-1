@@ -47,3 +47,8 @@
 - Landmark roles: Used to define regions of the page, such as the header, footer, and main content.
 - Aria labels - Used to provide a descriptive label for an element that may not be clear from its content.
 - Image alternative texts - Used to provide a description of an image for users who cannot see it.
+8. What is CSS and how can we implement CSS to our html file (write a proper explanation with the code required to attach a CSS file inside html file)
+- CSS stands for Cascading Style Sheets and is a styling language used for web pages. It allows you to apply styles like fonts, colors, and layouts to HTML documents. You can implement CSS in an HTML file by adding a style element in the head section of the HTML file or by linking an external CSS file to the HTML file using the link element.
+- To link an external CSS file, add the following code in the head section of your HTML file
+9. What is the difference between CSS property and value (write explanation and an example code)
+- In CSS, a property is an attribute of an element that you want to change, while a value is the specific setting or option for that property. For example, the font-size property can have a value of 16px or 1.2em.
