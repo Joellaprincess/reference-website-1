@@ -54,3 +54,9 @@
 - In CSS, a property is an attribute of an element that you want to change, while a value is the specific setting or option for that property. For example, the font-size property can have a value of 16px or 1.2em.
 10. Why do we use border-box property in CSS?
 - The border-box property in CSS changes the way the width and height of an element are calculated. By default, the width and height of an element are calculated based on the content size, and any padding or border added to it increases the size of the element.
+11. Explain different type of ways we can add spacing to an element
+- margin: adds space outside of the element
+- padding: adds space inside of the element
+- line-height: adds space between lines of text
+- letter-spacing: adds space between characters of text
+- word-spacing: adds space between words of text
