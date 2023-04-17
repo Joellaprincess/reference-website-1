@@ -60,3 +60,6 @@
 - line-height: adds space between lines of text
 - letter-spacing: adds space between characters of text
 - word-spacing: adds space between words of text
+12. What is the main difference between margin and padding?
+- Margin adds space outside of the element, pushing nearby elements away.
+- Padding adds space inside of the element, between the element's content and its border.
