@@ -85,4 +85,6 @@
 - To use the flexbox property on a parent element, you can set the display property to flex. This will create a flex container and turn all its direct children into flex items. The example is in CSS
 18. What is CSS grid property?
 - CSS Grid is a powerful two-dimensional layout system that allows you to create complex grid structures for your web pages. It provides a way to divide a page into rows and columns and place content in specific areas or cells. CSS Grid is designed to work with both rows and columns, allowing you to create intricate and customizable layouts.
-19. 
+19. Write the parent and two sub-properties used for CSS Grid Property.
+- grid-template-rows: Defines the height of each row in the grid. You can specify a value in pixels, percentages, or fractions using the repeat() function.
+- grid-template-columns: Defines the width of each column in the grid. You can specify a value in pixels, percentages, or fractions using the repeat() function.
