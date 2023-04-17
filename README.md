@@ -25,3 +25,20 @@
 - B: Used to make text bold.
 - I: Used to make text italicized.
 - Small: Used to make text smaller.
+6. Explain block Elements and also explain the list of block elements and why they are used from below:
+- In HTML, block-level elements are those that create a block of content, typically starting on a new line and taking up the full width available. These elements are used to structure the content of a web page, and they can contain other elements as well as text. The following is a list of some common block-level elements and their purposes:
+
+    1. html: This is the root element of an HTML document and contains all the other elements.
+    2. head: This element contains information about the document, such as the title, metadata, and links to external resources.
+    3. body: This element contains the main content of the page, such as text, images, and other elements.
+    4. header: This element is typically used to define a header section of a page or article.
+    5. nav: This element is used to define a set of navigation links that are typically used to navigate the website.
+    6. main: This element is used to define the main content of the page, which should be unique to the page.
+    7. section: This element is used to group related content together and often contains a heading.
+    8. article: This element is used to define a standalone piece of content, such as a blog post or news article.
+    9. div: This element is used to group related content together and often has a specific purpose, such as styling or scripting.
+    10. aside: This element is used to define content that is not directly related to the main content of the page, such as a sidebar.
+    11. footer: This element is typically used to define a footer section of a page or article.
+    12. span: This element is used to group inline content together, such as text or images.
+    13. small: This element is used to define smaller text, typically for disclaimers or fine print.
+- Block-level elements are used to structure the content of a web page, making it easier to read and understand. By using block-level elements appropriately, you can create a well-organized and visually appealing web page.
