@@ -6,3 +6,6 @@
 - Keep commit messages concise and descriptive of the changes made.
 - Use the present tense and imperative mood (e.g. "Add new feature" instead of "Added new feature").
 - Reference any relevant issue or ticket numbers in the commit message.
+3. What is HTML?
+- HTML (Hypertext Markup Language) is the standard language used to create web pages. It consists of a series of tags that define the structure and content of a page.
+4. 
