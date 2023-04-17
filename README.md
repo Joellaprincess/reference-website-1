@@ -52,3 +52,5 @@
 - To link an external CSS file, add the following code in the head section of your HTML file
 9. What is the difference between CSS property and value (write explanation and an example code)
 - In CSS, a property is an attribute of an element that you want to change, while a value is the specific setting or option for that property. For example, the font-size property can have a value of 16px or 1.2em.
+10. Why do we use border-box property in CSS?
+- The border-box property in CSS changes the way the width and height of an element are calculated. By default, the width and height of an element are calculated based on the content size, and any padding or border added to it increases the size of the element.
