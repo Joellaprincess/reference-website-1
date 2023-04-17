@@ -98,3 +98,8 @@
 - The area property in CSS Grid is used to specify the name of a grid area that a child element should occupy. A grid area is a rectangular area created by the intersection of a row and a column. By naming grid areas, we can easily position child elements in specific areas of the grid.
 24. Which sub-property of display grid you can use to prevent displaying empty columns. Write a code example of that property.
 - The sub-property of display: grid that we can use to prevent displaying empty columns is grid-auto-flow. By default, Grid will fill rows first and then move on to columns, which can sometimes create empty columns. Setting grid-auto-flow: column will fill columns first and then move on to rows, which can prevent empty columns. The code is in css.
+25. Explain the steps to add google fonts to your CSS file and how will you link it to the html file.
+    1. Choose the font family that you want to use from the Google Fonts website (https://fonts.google.com/).
+    2. Select the styles and variants that you need for your website.
+    3. Click on the "Embed" button and copy the provided code.
+    4. Paste the copied code into the head section of your HTML file, between the <head> </head> tags.
