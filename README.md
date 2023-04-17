@@ -63,3 +63,9 @@
 12. What is the main difference between margin and padding?
 - Margin adds space outside of the element, pushing nearby elements away.
 - Padding adds space inside of the element, between the element's content and its border.
+13. What are different types of display properties?
+- block: creates a block-level element that takes up the full width available and creates a new line after the element.
+- inline: creates an inline-level element that takes up only as much width as necessary and does not create a new line after the element.
+- inline-block: creates an inline-level element that can have a width and height specified, and creates a new line after the element.
+- none: removes the element from the page completely, making it invisible.
+- flex: creates a flexible container for a set of child elements, allowing you to control the layout of the children using flexbox properties.
