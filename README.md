@@ -74,3 +74,10 @@
 15. What are different types of flexbox properties and what is the major difference between them?
 - Container properties: These are properties that are applied to the container element and control the layout of the child elements. Some common container properties include display, flex-direction, justify-content, align-items, and flex-wrap.
 - Item properties: These are properties that are applied to the child elements and control how they are sized and aligned within the container. Some common item properties include flex-grow, flex-shrink, and flex-basis.
+16. Explain with code the use of flexbox property on a parent element and also explain the sub properties you might need for the flexbox property
+- To use the flexbox property on a parent element, you need to set the display property to flex. This code creates a flex container with the class name "container". You can then use flexbox properties to control the layout of the child elements within the container.
+- Some common flexbox properties include:
+    1. flex-direction: controls the direction of the main axis, which can be either row or column.
+    2. justify-content: controls the alignment of the child elements along the main axis.
+    3. align-items: controls the alignment of the child elements along the cross axis.
+    4. flex-wrap: controls whether the child elements should wrap onto a new line if they cannot fit within the container.
